@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns="http://www.w3.org/ns/widgets"
         xmlns:gap="http://phonegap.com/ns/1.0"
-        id="com.rodrigoveiga.mapaterritorio"
-        version="1.0.3">
+        id="tk.creativecursos.mapaterritorio"
+        version="1.0.4">
 
     <name>
         Mapa do Território
@@ -12,8 +12,8 @@
         Aplicativo que exibe o território de pregação da congregação Leste de Teófilo Otoni, devidamente mapeado com o número de casas em cada quarteirão.
     </description>
 
-    <author email="rodrigoveiga.2001@gmail.com">
-        Rodrigo Veiga Costa
+    <author email="softwareknight.comp@gmail.com">
+        Software Knight
     </author>
 
     <icon src="icon.png" />
